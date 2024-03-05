@@ -18,7 +18,7 @@ By completing this reflection, you will gain a clearer understanding of your car
 - **Name:** Nomusa Mtshali
 - **Date:** 5 March 2024
 - **Current Role/Position:** CodeSpace Student
-- **Field of Interest:**
+- **Field of Interest:** - Entry-Level Junior Front-End Developer
 
 ### Part 1: Self-Assessment Reflection
 
@@ -26,17 +26,36 @@ By completing this reflection, you will gain a clearer understanding of your car
 
    - List your current skills and areas of expertise.
 
+     - Problem-solving
+     - Good communication skills
+     - Proficiency in HTML
+     - Tailwind CSS
+
    - Identify skills you need to develop or improve.
+
+     - Public-Speaking
+     - Networking
+     - Emotional Intelligence
+     - JavaScript skills
 
 2. **Interests and Values**:
 
    - Describe your key interests related to your career.
 
+     - Artificial Intelligence
+     - Collaboration
+     - Web Development
+     - Cloud computing
+     - User Experience (UX) Design
+     - Open Source Contributions
+
    - What values are important to you in a work environment?
+
      - Responsibility
      - Accountability
      - Fairness
      - Respect
+     - Teamwork
 
 ### Part 2: Career Exploration Insights
 
@@ -62,7 +81,7 @@ By completing this reflection, you will gain a clearer understanding of your car
 
      Skills:
 
-     - These roles require you to work in groups most of the time, network and socialize with different kinds of individuals. As an individual, I enjoy group work and value social interaction.
+     - As an individual, I enjoy group work and value social interaction.
      - I have good/strong communication skills so this will be valuable for collaborating with other developers.
 
      Interests:
@@ -70,6 +89,8 @@ By completing this reflection, you will gain a clearer understanding of your car
      - Front-end developers often create interactive user interfaces and I'll enjoy this because I'll be learning and adapting to new tools and techniques.
 
      Values:
+
+     - These roles require you to work in groups most of the time, network and socialize with different kinds of individuals. This promotes teamwork in the work environment.
 
    - Identify any gaps or areas for further exploration.
 
@@ -159,11 +180,11 @@ By completing this reflection, you will gain a clearer understanding of your car
 
    - Include any resources or support required.
 
-   - I'll use FreeCodeCamp for JavaScript tutorials and project-based learning.
-   - GitHub for version control is required.
-   - Joining coding communities or forums like Stack Overflow, Reddit's, or Discord servers dedicated to JavaScript will help for seeking help, sharing resources, and receiving feedback on my projects.
-   - I'll seek guidance and feedback from my coach.
-   - I'll use EventBrite and Meetup to find coding workahops.
+     - I'll use FreeCodeCamp for JavaScript tutorials and project-based learning.
+     - GitHub for version control is required.
+     - Joining coding communities or forums like Stack Overflow, Reddit's, or Discord servers dedicated to JavaScript will help for seeking help, sharing resources, and receiving feedback on my projects.
+     - I'll seek guidance and feedback from my coach.
+     - I'll use EventBrite and Meetup to find coding workshops.
 
 2. **Preparation for Long-term Goals**:
 
@@ -182,12 +203,12 @@ By completing this reflection, you will gain a clearer understanding of your car
 
      - I need to learn back-end development by gaining proficiency in server-side programming languages (e.g., Python, Java, Node.js) and database management systems (e.g., SQL, MongoDB) to develop robust back-end solutions.
 
-- Consider additional skills, experiences, or qualifications needed.
+   - Consider additional skills, experiences, or qualifications needed.
 
-  - I need to embrace a growth mindset.
-  - I need to hone my leadership abilities by taking on leadership roles in student organizations, group projects, or extracurricular activities, demonstrating my ability to motivate and inspire teams to achieve common goals.
-  - I need to acquire knowledge of cloud computing platforms such as AWS, Azure, or Google Cloud Platform to deploy and scale full-stack applications in a cloud environment, enabling flexibility, scalability, and cost-effectiveness.
-  - I need to consider obtaining relevant certifications in project management (e.g., PMP, CAPM), cloud computing (e.g., AWS Certified Solutions Architect, Microsoft Certified: Azure Developer Associate), or AI (e.g., NVIDIA Deep Learning Institute Certifications) to validate your skills and enhance your credibility.
+     - I need to embrace a growth mindset.
+     - I need to hone my leadership abilities by taking on leadership roles in student organizations, group projects, or extracurricular activities, demonstrating my ability to motivate and inspire teams to achieve common goals.
+     - I need to acquire knowledge of cloud computing platforms such as AWS, Azure, or Google Cloud Platform to deploy and scale full-stack applications in a cloud environment, enabling flexibility, scalability, and cost-effectiveness.
+     - I need to consider obtaining relevant certifications in project management (e.g., PMP, CAPM), cloud computing (e.g., AWS Certified Solutions Architect, Microsoft Certified: Azure Developer Associate), or AI (e.g., NVIDIA Deep Learning Institute Certifications) to validate your skills and enhance your credibility.
 
 ### Part 5: Reflection on Challenges and Opportunities
 
