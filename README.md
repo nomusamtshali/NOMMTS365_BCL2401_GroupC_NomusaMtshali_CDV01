@@ -212,6 +212,10 @@ By completing this reflection, you will gain a clearer understanding of your car
    - Highlight any opportunities you can leverage for career growth.
    - Include networking, mentorship, or educational opportunities.
 
+     - Attending coding workshops to connect with professionals in the industry will help in building relationships with individuals already working in software engineering industry which can lead to mentorship opportunities, job referrals, and valuable insights into career paths and industry trends.
+     - Joining online communities will contribute to engaging with peers, sharing knowledge and provide learning opportunities which will expose me to collaboration.
+     - I'll take advantage of online courses to enhance my skills and knowledge.
+
 ### Submission
 
 - To complete this submission you will need to use this template and complete Parts 1 to 5.
